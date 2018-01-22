@@ -1,5 +1,7 @@
 # MultiTargets
 
+Duplicates original target, skip step 2 and 3 if you are not going to rename it.
+
 ## Step 1
 
 ![alt tag](https://github.com/naverdant/MultiTargets/blob/master/instruction1.jpg)
